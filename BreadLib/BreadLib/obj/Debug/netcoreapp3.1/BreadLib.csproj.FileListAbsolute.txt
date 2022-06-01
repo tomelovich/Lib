@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\КПиЯП практика\BreadLib\BreadLib\bin\Debug\netcoreapp3.1\BreadLib.deps.json
+C:\Users\Admin\Desktop\КПиЯП практика\BreadLib\BreadLib\bin\Debug\netcoreapp3.1\BreadLib.dll
+C:\Users\Admin\Desktop\КПиЯП практика\BreadLib\BreadLib\bin\Debug\netcoreapp3.1\BreadLib.pdb
+C:\Users\Admin\Desktop\КПиЯП практика\BreadLib\BreadLib\obj\Debug\netcoreapp3.1\BreadLib.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\КПиЯП практика\BreadLib\BreadLib\obj\Debug\netcoreapp3.1\BreadLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\КПиЯП практика\BreadLib\BreadLib\obj\Debug\netcoreapp3.1\BreadLib.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\КПиЯП практика\BreadLib\BreadLib\obj\Debug\netcoreapp3.1\BreadLib.AssemblyInfo.cs
+C:\Users\Admin\Desktop\КПиЯП практика\BreadLib\BreadLib\obj\Debug\netcoreapp3.1\BreadLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПиЯП практика\BreadLib\BreadLib\obj\Debug\netcoreapp3.1\BreadLib.dll
+C:\Users\Admin\Desktop\КПиЯП практика\BreadLib\BreadLib\obj\Debug\netcoreapp3.1\BreadLib.pdb
