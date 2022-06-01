@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\КПиЯП практика\LibraryExample\LibraryExample\bin\Debug\netcoreapp3.1\LibraryExample.deps.json
+C:\Users\Admin\Desktop\КПиЯП практика\LibraryExample\LibraryExample\bin\Debug\netcoreapp3.1\LibraryExample.dll
+C:\Users\Admin\Desktop\КПиЯП практика\LibraryExample\LibraryExample\bin\Debug\netcoreapp3.1\LibraryExample.pdb
+C:\Users\Admin\Desktop\КПиЯП практика\LibraryExample\LibraryExample\obj\Debug\netcoreapp3.1\LibraryExample.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\КПиЯП практика\LibraryExample\LibraryExample\obj\Debug\netcoreapp3.1\LibraryExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\КПиЯП практика\LibraryExample\LibraryExample\obj\Debug\netcoreapp3.1\LibraryExample.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\КПиЯП практика\LibraryExample\LibraryExample\obj\Debug\netcoreapp3.1\LibraryExample.AssemblyInfo.cs
+C:\Users\Admin\Desktop\КПиЯП практика\LibraryExample\LibraryExample\obj\Debug\netcoreapp3.1\LibraryExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПиЯП практика\LibraryExample\LibraryExample\obj\Debug\netcoreapp3.1\LibraryExample.dll
+C:\Users\Admin\Desktop\КПиЯП практика\LibraryExample\LibraryExample\obj\Debug\netcoreapp3.1\LibraryExample.pdb

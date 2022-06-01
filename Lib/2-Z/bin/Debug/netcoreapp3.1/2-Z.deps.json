@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "2-Z/1.0.0": {
+        "dependencies": {
+          "BreadLib": "1.0.0"
+        },
+        "runtime": {
+          "2-Z.dll": {}
+        }
+      },
+      "BreadLib/1.0.0": {
+        "runtime": {
+          "BreadLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2-Z/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BreadLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
